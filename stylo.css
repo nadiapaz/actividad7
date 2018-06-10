@@ -1,0 +1,66 @@
+	.jumbotron{
+		background-image: url("bg2.jpg"); 
+}
+	.btn-lg{
+		background-color: #eeeeee;
+		border-color: #eeeeee;
+		margin-left: 45%;
+		color: #686363;
+}
+	.display-4{
+		color: #e0dbdb;
+		text-align: center;
+
+}
+	p{
+		color:black;
+		text-align: center;
+
+}
+	.camara{
+		margin-right: 20%;
+		width: 40px;
+
+}
+	.card{
+		width: 18rem;
+		margin-top: 20px;
+		border: 13px; 
+		border-style: solid; 
+		color:#ecacef; 
+		border-radius: 25px
+
+}
+	.btn-primary{
+		background-color: #eeeeee;
+		border-color: #eeeeee;
+		color: #686363;
+
+}
+	.card-text{
+		color:#b05fb5;
+}
+	footer .blanco{
+       	background-color:white;
+       	border: 2px;
+       	border-style: solid;color:#21252917;
+    	text-align: center;
+       	font-size: 25px;
+        margin-top: 30px;
+        margin-left: 40px;
+        margin-right: 40px;
+
+       }
+
+	footer .copyrigth{
+		padding-top: 10px;
+		font-size: 25px;
+		text-align: center;
+		margin-left: 40px;
+		margin-right: 40px;
+		
+}
+	footer .logo2{
+	    width: 35px;
+}
+
